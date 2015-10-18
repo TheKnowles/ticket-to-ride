@@ -1,0 +1,47 @@
+Amsterdam        Bruxelles 1 London 2 Frankfurt 2 Essen 3
+Angora           Constantinople 2 Erzurum 3 Smyrna 3
+Athina           Smyrna 2 Sofia 3 Brindisi 4 Sarajevo 4
+Barcelona        Madrid 2 Pamplona 2 Marseille 4
+Berlin           Essen 2 Frankfurt 3 Wien 3 Warszawa 4 Danzig 4
+Brest            Dieppe 2 Paris 3 Pamplona 4
+Brindisi         Roma 2 Palermo 3 Athina 4
+Bruxelles        Amsterdam 1 Dieppe 2 Paris 2 Frankfurt 2
+Bucuresti        Sofia 2 Constantinople 3 Sevastopol 4 Kyiv 4 Budapest 4
+Budapest         Wien 1 Zagrab 2 Sarajevo 3 Bucuresti 4 Kyiv 6 
+Cadiz            Lisboa 2 Madrid 3
+Constantinople   Angora 2 Smyrna 2 Sofia 3 Bucuresti 3 Sevastopol 4
+Danzig           Warszawa 2 Riga 3 Berlin 4
+Dieppe           Paris 1 London 2 Bruxelles 2 Brest 2
+Edinburgh        London 4
+Erzurum          Sochi 3 Angora 3 Sevastopol 4
+Essen            Berlin 2 Frankfurt 2 Amsterdam 3 Kobenhavn 3
+Frankfurt        Essen 2 Munchen 2 Amsterdam 2 Bruxelles 2 Berlin 3 Paris 3
+Kharkov          Rostov 2 Kyiv 4 Moskva 4
+Kobenhavn        Stockholm 3 Essen 3
+Kyiv             Wilno 2 Smolensk 3 Kharkov 4 Warszawa 4 Bucuresti 4 Budapest 6
+Lisboa           Cadiz 2 Madrid 3
+London           Amsterdam 2 Dieppe 2 Edinburgh 4
+Madrid           Barcelona 2 Lisboa 3 Pamplona 3 Cadiz 3
+Marseille        Zurich 2 Roma 4 Pamplona 4 Paris 4 Barcelona 4 
+Moskva           Smolensk 2 Petrograd 4 Kharkov 4
+Munchen          Frankfurt 2 Venezia 2 Zurich 2 Wien 3
+Palermo          Brindisi 3 Roma 4 Smyrna 6
+Pamplona         Barcelona 2 Madrid 3 Brest 4 Paris 4 Marseille 4
+Paris            Dieppe 1 Bruxelles 2 Brest 3 Frankfurt 3 Zurich 3 Marseille 4 Pamplona 4
+Petrograd        Moskva 4 Wilno 4 Riga 4 Stockholm 8
+Riga             Danzig 3 Petrograd 4 Wilno 4
+Roma             Venezia 2 Brindisi 2 Palermo 4 Marseille 4
+Rostov           Sochi 2 Kharkov 2 Sevastopol 4
+Sarajevo         Sofia 2 Zagrab 3 Budapest 3 Athina 4
+Sevastopol       Sochi 2 Rostov 4 Bucuresti 4 Constantinople 4 Erzurum 4
+Smolensk         Moskva 2 Kyiv 3 Wilno 3
+Smyrna           Athina 2 Constantinople 2 Angora 3 Palermo 6 
+Sochi            Sevastopol 2 Rostov 2 Erzurum 3
+Sofia            Bucuresti 2 Sarajevo 2 Athina 3 Constantinople 3
+Stockholm        Kobenhavn 3 Petrograd 8
+Venezia          Roma 2 Zagrab 2 Munchen 2 Zurich 2 
+Warszawa         Danzig 2 Wilno 3 Kyiv 4 Wien 4 Berlin 4
+Wien             Budapest 1 Zagrab 2 Munchen 3 Berlin 3 Warszawa 4
+Wilno            Kyiv 2 Smolensk 3 Warszawa 3 Riga 4 Petrograd 4
+Zagrab           Budapest 2 Wien 2 Venezia 2 Sarajevo 3 
+Zurich           Munchen 2 Venezia 2 Marseille 2 Paris 3
