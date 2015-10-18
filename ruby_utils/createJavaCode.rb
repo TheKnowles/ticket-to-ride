@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 
-
+#this was originally written to create a series of Java statements.
+#since a method cannot have more than 65k of code, this was changed to write a more palatable file for the Java program to ingest
+#and populate its own ArrayList
 input = File.open(ARGV[0]).read
 
 routes = input.split("\n\n")
