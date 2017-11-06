@@ -109,7 +109,7 @@ void setup() {
 //TODO clean up event detection
 void controlEvent(ControlEvent theEvent) {
   if (theEvent.isController()) {
-    println("event from controller : "+theEvent.getController().getValue()+" from "+theEvent.getController());
+    //println("event from controller : "+theEvent.getController().getValue()+" from "+theEvent.getController());
     if(theEvent.getController().toString().equals("Start City [DropdownList]")){
       activeStart = map.cityObjMap_.get(map.getCities().get((int)(theEvent.getController().getValue())));
     }
